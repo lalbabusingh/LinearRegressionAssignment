@@ -6,7 +6,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
 
 ## Table of Contents
 - Problem Statement
-- Solution Approach: Building Multiple Linear Regression Model
+- Solution Approach: **Building Multiple Linear Regression Model**
 - Answered Assignment pdf document
 
 ## General Information
